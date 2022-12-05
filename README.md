@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @majdi-d
 - 👀 I’m interested in Cloud native apps, Infrastructure as Code, DevOps, Serverless, AWS/Azure/GCP, .NET, SQL Server, MySQL, MongoDB, DynamyDB, Redis, Prometheus,  Grafana, ELK, SOA/Microservices, Docker/Compose/swarm, Container Orchestration, DDD, Agile Methodologies, Cybersecurity, ITIL
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/majdidhissi/)
 
 <!---
