@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @majdi-d
 - 👀 I’m interested in Cloud native apps, Infrastructure as Code, DevOps, Serverless, AWS/Azure/GCP, .NET, SQL Server, MySQL, MongoDB, DynamyDB, Redis, Prometheus,  Grafana, ELK, SOA/Microservices, Docker/Compose/swarm, Container Orchestration, DDD, Agile Methodologies, Cybersecurity, ITIL
-- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/majdidhissi/)
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/majdidhissi/) and read my articles on [Medium](https://medium.com/@majdid)
 
 <!---
 majdi-d/majdi-d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
